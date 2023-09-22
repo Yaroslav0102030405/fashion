@@ -8,11 +8,24 @@ const Promo = () => {
       <div className="container">
         <div className="promo__content">
           <div className="promo__text">
-            <h1 className="promo__title">LET’S EXPLORE UNIQUE CLOTHES.</h1>
+            <h1 className="promo__title">
+              <span className="promo__highlight">
+                <span>LET’S</span>
+              </span>
+              EXPLORE
+              <span className="promo__highlight-yellow">
+                <span> UNIQUE</span>
+              </span>
+              CLOTHES.
+            </h1>
             <p className="promo__desc">
               Live for Influential and Innovative fashion!
             </p>
-            <button className="promo__btn" type="button">Shop Now</button>
+            <span className="promo__btn-wrapper">
+              <button className="promo__btn" type="button">
+                Shop Now
+              </button>
+            </span>
           </div>
           <div className="promp__img">
             <img src={PromoImg} alt="Promo" />
