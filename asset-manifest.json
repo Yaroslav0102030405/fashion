@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/fashion/static/css/main.98fb3967.css",
+    "main.js": "/fashion/static/js/main.eb0f7b7f.js",
+    "static/media/header-img.png": "/fashion/static/media/header-img.009254dfb3bc54173dae.png",
+    "static/media/card-03.jpg": "/fashion/static/media/card-03.385c38267ff6e41daad7.jpg",
+    "static/media/card-01.jpg": "/fashion/static/media/card-01.4a3fec8151f36af3ebbb.jpg",
+    "static/media/card-02.jpg": "/fashion/static/media/card-02.b46418cb3b01bca92db9.jpg",
+    "static/media/amazon.png": "/fashion/static/media/amazon.8147eaff712ddbb636a0.png",
+    "static/media/shopify.png": "/fashion/static/media/shopify.bf70fa9caf43cad1e916.png",
+    "static/media/logo.svg": "/fashion/static/media/logo.fa6ed5442940b2375841123db8c623be.svg",
+    "index.html": "/fashion/index.html",
+    "static/media/yellow.svg": "/fashion/static/media/yellow.8d8b4e322ef013cf6aba.svg",
+    "static/media/decor-yellow.svg": "/fashion/static/media/decor-yellow.1cde02ab1a06cdaddfa4.svg",
+    "main.98fb3967.css.map": "/fashion/static/css/main.98fb3967.css.map",
+    "main.eb0f7b7f.js.map": "/fashion/static/js/main.eb0f7b7f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.98fb3967.css",
+    "static/js/main.eb0f7b7f.js"
+  ]
+}
