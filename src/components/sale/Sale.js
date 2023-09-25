@@ -12,7 +12,7 @@ const Sale = () => {
                 <img className="sale__img" src={SaleImg} alt="sale"/>
               </div>
               <div className="sale__right">
-                <h2 className="sale___title">payday sale now</h2>
+                <h2 className="sale__title">payday sale now</h2>
                 <p className="sale__text">
                   Spend minimal $100 get 30% off voucher code for your next
                   purchase
