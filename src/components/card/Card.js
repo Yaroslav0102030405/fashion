@@ -12,17 +12,17 @@ const Card = () => {
 
         <ul className="card__list">
           <li>
-            <img src={cardOne} alt="cardOne" />
+            <img className="card__img" src={cardOne} alt="cardOne" />
             <h3 className="card__last-name">Hoodies & Sweetshirt</h3>
             <p className="card__desc">Explore Now!</p>
           </li>
           <li>
-            <img src={cardTwo} alt="cardTwo" />
+            <img className="card__img" src={cardTwo} alt="cardTwo" />
             <h3 className="card__last-name">Explore Now!</h3>
             <p className="card__desc">Explore Now!</p>
           </li>
           <li>
-            <img src={cardThree} alt="cardThree" />
+            <img className="card__img" src={cardThree} alt="cardThree" />
             <h3 className="card__last-name">Tees & T-Shirt</h3>
             <p className="card__desc">Tees & T-Shirt</p>
           </li>
