@@ -40,3 +40,8 @@ letter-spacing: -1.28px;
     background-image: url("./../../image/categories/arrow.svg");
     background-repeat: no-repeat;
 }
+
+.favorite__wrapper {
+    display: flex;
+    justify-content: space-between;
+}

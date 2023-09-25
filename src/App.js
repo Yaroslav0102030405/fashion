@@ -7,6 +7,7 @@ import Card from "./components/card/Card";
 import Sale from "./components/sale/Sale";
 import Favorite from "./components/favorite/Favorite";
 import Download from "./components/download/Download";
+import Community from "./components/community/Community";
 
 
 
@@ -22,6 +23,7 @@ function App() {
       <Sale />
       <Favorite />
       <Download />
+      <Community />
     </div>
   );
 }

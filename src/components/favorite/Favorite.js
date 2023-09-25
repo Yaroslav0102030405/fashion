@@ -8,7 +8,7 @@ const Favorite = () => {
     <section className="favorite">
       <div className="container">
         <h2 className="favorite__title">Young’s Favourite</h2>
-        <ul>
+        <ul className="favorite__wrapper">
           <li>
             <img className="favorite__img" src={Promo04} alt="Promo04" />
             <h3 className="favorite__text">Trending on instagram</h3>
