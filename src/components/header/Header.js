@@ -11,7 +11,7 @@ function Header() {
             <img src={logo}/>
             fashion
           </a>
-          <ul>
+          <ul className="header__list">
             <li>
               <a href="#!">catalogue</a>
             </li>

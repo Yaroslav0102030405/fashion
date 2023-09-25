@@ -18,7 +18,7 @@ const Download = () => {
               now.
             </p>
 
-            <ul>
+            <ul className="download__list">
               <li>
                 <img
                   className="download__app-store"

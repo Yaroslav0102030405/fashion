@@ -8,6 +8,7 @@ import Sale from "./components/sale/Sale";
 import Favorite from "./components/favorite/Favorite";
 import Download from "./components/download/Download";
 import Community from "./components/community/Community";
+import Footer from "./components/footer/Footel";
 
 
 
@@ -24,6 +25,7 @@ function App() {
       <Favorite />
       <Download />
       <Community />
+      <Footer />
     </div>
   );
 }

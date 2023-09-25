@@ -31,9 +31,9 @@ letter-spacing: -1.28px;
     content: "";
     position: absolute;
 
-    width: 190px;
-  height: 32px;
-
+    width: 32px;
+height: 32px;
+/* right: 0; */
   left: 800px;
   bottom: -20px;
 

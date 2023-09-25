@@ -7,6 +7,11 @@
     justify-content: center;
 }
 
+.download__list {
+  display: flex;
+  column-gap: 19px;
+}
+
 .download__title {
   margin-right: 339px;
   padding-top: 240px;

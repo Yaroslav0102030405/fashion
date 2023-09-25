@@ -20,7 +20,7 @@ body {
   justify-content: space-between;
 }
 
-ul {
+.header__list {
   display: flex;
   column-gap: 30px;
 }
