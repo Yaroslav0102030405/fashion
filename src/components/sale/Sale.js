@@ -1,6 +1,6 @@
 import React from "react";
 import "./sale.css";
-import SaleImg from './../../image/sale/sale.png'
+import SaleImg from './../../image/sale/sale-remove.png';
 
 const Sale = () => {
     return (
@@ -9,7 +9,7 @@ const Sale = () => {
           <div className="container">
             <div className="wrapper">
               <div className="sale__img">
-                <img src={SaleImg} alt="sale"/>
+                <img className="sale__img" src={SaleImg} alt="sale"/>
               </div>
               <div className="sale__right">
                 <h2 className="sale___title">payday sale now</h2>

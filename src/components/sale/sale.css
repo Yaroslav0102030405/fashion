@@ -1,5 +1,5 @@
 .overlay {
-   background-color: gold;
+   background-color: #e5c643;
 }
 
 /* .sale__img {
@@ -64,4 +64,9 @@ text-transform: uppercase;
   letter-spacing: 0.56px;
 
   text-transform: uppercase;
+}
+
+.sale__img {
+  width: 992px;
+  height: 968px;
 }
